@@ -104,6 +104,8 @@ CRM próprio, construído para organizar os projetos e clientes da própria CODE
 
 ### 🍽️ Delícias da Maré — Cardápio Digital *(em preparação)*
 
+<img src="assets/screenshots/delicias-da-mare.jpg" width="420" alt="Sistema de cardápio Delícias da Maré"/>
+
 Cardápio digital para um restaurante, seguindo o mesmo formato de pedido pelo celular. Sistema pronto; deploy pendente da provisão final de banco de dados e domínio.
 
 - **Stack:** React · Vite · TailwindCSS · Hono · Drizzle · Neon Postgres · Cloudflare Workers
